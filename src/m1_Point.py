@@ -3,8 +3,8 @@ A simple   Point   class.
 NOTE: This is NOT rosegraphics -- it is your OWN Point class.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Zack Watson.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 def main():
@@ -115,7 +115,7 @@ def run_test_init():
     #   d. Implement and test the  __init__  method.
     #        Make sure that you UNDERSTAND your code and are not just
     #        "pattern matching" from examples.
-    #        ASK QUESIONS AS NEEDED.  COMMIT YOUR WORK.
+    #        ASK QUESTIONS AS NEEDED.  COMMIT YOUR WORK.
     # ------------------------------------------------------------------
     print()
     print('-----------------------------------------------------------')
